@@ -16,6 +16,7 @@
     "plata_name": "pwi-plata-type",
     "my-scripts": {},
     "dependencies": {
+        "kafkajs": "^2.2.4",
         "pwi-plata-mysql": "^0.2.5",
         "pwi-plata-type": "^0.4.179"
     }

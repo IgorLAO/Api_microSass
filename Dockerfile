@@ -20,6 +20,6 @@ WORKDIR /usr/src/app
 
 COPY --from=BUILD /usr/src/app/__RELEASE__ /usr/src/app/
 
-EXPOSE 3050
+EXPOSE 3058
 
 CMD [ "npm", "start" ]
